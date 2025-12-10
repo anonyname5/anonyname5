@@ -62,8 +62,8 @@ Hi! I'm **Ahmad Syukri Sazali**, a junior software developer from Shah Alam, Mal
 
 Working on the **IWK Billing System** with React and .NET. Contributed to:
 - Feature implementation and development
-- Performance improvements (**30% faster page loads**)
-- Intern mentoring and knowledge sharing
+- Bug fixing
+- MothEnd Processing Data
 
 ---
 
@@ -73,8 +73,8 @@ Working on the **IWK Billing System** with React and .NET. Contributed to:
 |---------|-------------|------------|
 | **LifeBalance Tracker** | Wellness + finance mobile app for habits, hydration, and budgeting | Flutter, SQLite |
 | **Crime Prediction** | Data-driven crime analysis and prediction | Python, ML |
-| **Food Review** | Restaurant discovery and ratings platform | MERN Stack |
-| **E-Commerce Platform** | Full-stack shopping experience | React, Node.js, MongoDB, Stripe |
+| **Food Review** | Restaurant discovery and ratings platform | Laravel, MySQL |
+| **E-Commerce Platform** | Full-stack shopping experience | Laravel, MySQL |
 | **TapNWear** | QR-based retail shopping and checkout flow | Blueprint |
 
 ---
@@ -95,6 +95,7 @@ Working on the **IWK Billing System** with React and .NET. Contributed to:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -146,7 +147,7 @@ Feel free to reach out via email or LinkedIn—always open to chatting about new
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=anonyname5&icon=0&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=anonyname5&color=blueviolet&style=for-the-badge)
 
 **Thanks for visiting!** ⭐
 
