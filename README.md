@@ -124,11 +124,11 @@ Working on the **IWK Billing System** with React and .NET. Contributed to:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anonyname5&theme=neon&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=anonyname5&theme=neon&hide_border=false&include_all_commits=true&count_private=false)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=anonyname5&theme=neon&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=anonyname5&theme=neon&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anonyname5&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anonyname5&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
