@@ -22,7 +22,6 @@ Hi! I'm **Ahmad Syukri Sazali**, a junior software developer from Shah Alam, Mal
 ### Quick Snapshot
 
 - **Title:** Software Developer
-- **Location:** Shah Alam, Malaysia
 - **Email:** ahmdsyukri09@gmail.com
 - **GitHub:** [anonyname5](https://github.com/anonyname5)
 - **LinkedIn:** [Ahmad Syukri Sazali](https://www.linkedin.com/in/ahmad-syukri-sazali-427890319/)
