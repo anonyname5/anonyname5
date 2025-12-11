@@ -66,7 +66,7 @@ Working on the **IWK Billing System** with React and .NET. Contributed to:
 
 ---
 
-## 🚀 Projects I'm Proud Of
+## 🚀 Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
