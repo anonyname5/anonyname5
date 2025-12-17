@@ -6,7 +6,6 @@
 
 📍 **Shah Alam, Malaysia** | 💼 Currently working at **HPCS Sdn Bhd**
 
-[![Porfolio](https://anonyname5.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-syukri-sazali-427890319/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anonyname5)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmdsyukri09@gmail.com)
@@ -23,6 +22,7 @@ Hi! I'm **Ahmad Syukri Sazali**, a junior software developer from Shah Alam, Mal
 
 - **Title:** Software Developer
 - **Email:** ahmdsyukri09@gmail.com
+- **Portfolio:** [Syukri]([https://github.com/anonyname5](https://anonyname5.github.io/Portfolio/))
 - **GitHub:** [anonyname5](https://github.com/anonyname5)
 - **LinkedIn:** [Ahmad Syukri Sazali](https://www.linkedin.com/in/ahmad-syukri-sazali-427890319/)
 
