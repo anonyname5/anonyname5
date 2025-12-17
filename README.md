@@ -22,7 +22,7 @@ Hi! I'm **Ahmad Syukri Sazali**, a junior software developer from Shah Alam, Mal
 
 - **Title:** Software Developer
 - **Email:** ahmdsyukri09@gmail.com
-- **Portfolio:** [Syukri](https://anonyname5.github.io/Portfolio/)
+- **Portfolio:** [Ahmad Syukri Sazali](https://anonyname5.github.io/Portfolio/)
 - **GitHub:** [anonyname5](https://github.com/anonyname5)
 - **LinkedIn:** [Ahmad Syukri Sazali](https://www.linkedin.com/in/ahmad-syukri-sazali-427890319/)
 
