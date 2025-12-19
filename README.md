@@ -49,9 +49,9 @@ Hi! I'm **Ahmad Syukri Sazali**, a junior software developer from Shah Alam, Mal
 </div>
 
 - **9+ months** of hands-on development experience
-- **12+ projects** shipped across web and mobile
+- **5+ projects** Involved
 - Comfortable with **15+ technologies** spanning frontend, backend, and mobile
-- **25+ GitHub repositories** showcasing experiments and shipped work
+- **15+ GitHub repositories** showcasing experiments and shipped work
 
 ---
 
