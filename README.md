@@ -59,10 +59,10 @@ Hi! I'm **Ahmad Syukri Sazali**, a junior software developer from Shah Alam, Mal
 
 ### Junior Software Developer (Full Stack) — HPCS Sdn Bhd
 
-Working on the **IWK Billing System** with React and .NET. Contributed to:
+Currently working on the **IWK Billing System** with React and .NET. Contributed to:
 - Feature implementation and development
 - Bug fixing
-- MothEnd Processing Data
+- MothEnd Data Processing
 
 ---
 
