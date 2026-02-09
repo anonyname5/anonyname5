@@ -16,7 +16,7 @@
 
 ## 💫 About Me
 
-Hi! I'm **Ahmad Syukri Sazali**, a junior software developer from Shah Alam, Malaysia. I enjoy building web and mobile products that solve real problems, with a focus on clean, maintainable code and user-friendly interfaces.
+Hi! I'm **Ahmad Syukri Sazali**, a junior software developer from Malaysia. I enjoy building web and mobile products that solve real problems, with a focus on clean, maintainable code and user-friendly interfaces.
 
 ### Quick Snapshot
 
