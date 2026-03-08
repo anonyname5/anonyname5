@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi there, I'm Ahmad Syukri Sazali
+# Hi there, I'm Ahmad Syukri Sazali
 
-### 🚀 Junior Software Developer | Full Stack Developer | Mobile App Developer
+### Junior Software Developer | Full Stack Developer | Mobile App Developer
 
-📍 **Shah Alam, Malaysia** | 💼 Currently working at **HPCS Sdn Bhd**
+📍 **Shah Alam, Malaysia** | Currently working at **HPCS Sdn Bhd**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-syukri-sazali-427890319/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anonyname5)
@@ -14,7 +14,7 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 Hi! I'm **Ahmad Syukri Sazali**, a junior software developer from Malaysia. I enjoy building web and mobile products that solve real problems, with a focus on clean, maintainable code and user-friendly interfaces.
 
@@ -28,16 +28,16 @@ Hi! I'm **Ahmad Syukri Sazali**, a junior software developer from Malaysia. I en
 
 ### What I'm Up To
 
-- 🛠️ **Currently working on:** The IWK Billing System at HPCS Sdn Bhd (React frontend, .NET backend) as a Junior Software Developer
-- 🤝 **Looking to collaborate on:** React, Node.js, and Flutter projects that deliver practical impact
-- 🙌 **Looking for help with:** Growing open-source contributions and refining scalable, clean code patterns
-- 🌱 **Currently learning:** Deeper React/Node.js patterns, .NET backend practices, and Flutter for mobile
-- 💬 **Ask me about:** Building maintainable UIs, performance tuning, and shipping production-ready features
-- ⚡ **Fun fact:** I love turning ideas into reality—one line of code at a time
+- **Currently working on:** The IWK Billing System at HPCS Sdn Bhd (React frontend, .NET backend) as a Junior Software Developer
+- **Looking to collaborate on:** React, Node.js, and Flutter projects that deliver practical impact
+- **Looking for help with:** Growing open-source contributions and refining scalable, clean code patterns
+- **Currently learning:** Deeper React/Node.js patterns, .NET backend practices, and Flutter for mobile
+- **Ask me about:** Building maintainable UIs, performance tuning, and shipping production-ready features
+- **Fun fact:** I love turning ideas into reality—one line of code at a time
 
 ---
 
-## ✨ Highlights
+## Highlights
 
 <div align="center">
 
@@ -55,7 +55,7 @@ Hi! I'm **Ahmad Syukri Sazali**, a junior software developer from Malaysia. I en
 
 ---
 
-## 💼 Recent Experience
+## Recent Experience
 
 ### Junior Software Developer (Full Stack) — HPCS Sdn Bhd
 
@@ -66,7 +66,7 @@ Currently working on the **IWK Billing System** with React and .NET. Contributed
 
 ---
 
-## 🚀 Projects
+## Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -78,7 +78,7 @@ Currently working on the **IWK Billing System** with React and .NET. Contributed
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -120,7 +120,7 @@ Currently working on the **IWK Billing System** with React and .NET. Contributed
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -134,7 +134,7 @@ Currently working on the **IWK Billing System** with React and .NET. Contributed
 
 ---
 
-## 🤝 Get In Touch
+## Get In Touch
 
 Feel free to reach out via email or LinkedIn—always open to chatting about new ideas, collaboration, or interesting problems to solve!
 
@@ -148,6 +148,6 @@ Feel free to reach out via email or LinkedIn—always open to chatting about new
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anonyname5&color=blueviolet&style=for-the-badge)
 
-**Thanks for visiting!** ⭐
+**Thanks for visiting!** 
 
 </div>
