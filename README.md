@@ -48,7 +48,7 @@ Hi! I'm **Ahmad Syukri Sazali**, a junior software developer from Malaysia. I en
 
 </div>
 
-- **9+ months** of hands-on development experience
+- **1 Year** of hands-on development experience
 - **5+ projects** Involved
 - Comfortable with **15+ technologies** spanning frontend, backend, and mobile
 - **15+ GitHub repositories** showcasing experiments and shipped work
