@@ -42,7 +42,7 @@ Hi! I'm **Ahmad Syukri Sazali**, a junior software developer from Malaysia. I en
 <div align="center">
 
 ![Experience](https://img.shields.io/badge/Experience-9%2B%20Months-blue?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Projects-12%2B%20Shipped-success?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Personal-Projects-12%2B%20-success?style=for-the-badge)
 ![Technologies](https://img.shields.io/badge/Technologies-15%2B-brightgreen?style=for-the-badge)
 ![Repositories](https://img.shields.io/badge/Repositories-25%2B-orange?style=for-the-badge)
 
